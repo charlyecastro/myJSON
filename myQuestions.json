@@ -3,21 +3,21 @@
         "questions":[
           {
             "text":"1 + 1 equals?",
-            "answer":"1",
+            "answer":"2",
             "answers":[
                 "11", "2", "-100", "81"
             ]
           },
           {
             "text":"Which is the formula for the Pythagorean theorem",
-            "answer":"2",
+            "answer":"3",
             "answers":[
             "b - (b * a) = c", "PI * R^2 = A", "a^2 + b^2 = c^2", "MC^2 = E"
             ]
           },
           {
             "text": "Which of the following is not a math subject",
-            "answer":"0",
+            "answer":"1",
             "answers":[
                 "Physical Education", "Algebra", "Geometry", "Calculus"
             ]
@@ -29,21 +29,21 @@
         "questions":[
           {
             "text":"E equals?",
-            "answer":"0",
+            "answer":"1",
             "answers":[
                 "mc^2", "d/t", "l * w", "mv"
             ]
           },
           {
             "text":"How many laws does Newton have?",
-            "answer":"2",
+            "answer":"3",
             "answers":[
                 "4", "8", "3", "15"
             ]
           },
           {
             "text": "What is Earths gravitational acceleration?",
-            "answer":"1",
+            "answer":"2",
             "answers":[
                 "3.14 m/s^2", "9.807 m/s^2", "5.34 m/s^2", "9.801 m/s^2"
             ]
@@ -55,21 +55,21 @@
         "questions":[
           {
             "text":"Who is Spider Man?",
-            "answer":"1",
+            "answer":"2",
             "answers":[
                 "Tony Stark", "Peter Parker", "Bruce Wayne", "Bruce Banner"
             ]
           },
           {
             "text":"Who is NOT a member of the Avengers?",
-            "answer":"3",
+            "answer":"4",
             "answers":[
                 "Hulk", "Black Widow", "Bruce Banner", "Wolverine"
             ]
           },
           {
             "text": "Who owns Marvel?",
-            "answer":"0",
+            "answer":"1",
             "answers":[
                 "Walt Disney", "COMCAST", "FOX", "Time Warner"
             ]
@@ -81,21 +81,21 @@
     "questions":[
       {
         "text":"Which of these movies was released in 2008?",
-        "answer":"2",
+        "answer":"3",
         "answers":[
             "Dead Pool", "Forrest Gump", "The Dark Knight", "Zodiac"
         ]
       },
       {
         "text":"Which movie won the most Oscars in 1997",
-        "answer":"3",
+        "answer":"4",
         "answers":[
             "Gattaca", "Forrest Gump", "Good Will Hunting", "Titanic"
         ]
       },
       {
         "text": "The Disaster Artist is based on which film?",
-        "answer":"1",
+        "answer":"2",
         "answers":[
             "The Usual Suspects", "The Room", "Forrest Gump", "Her"
         ]
@@ -107,21 +107,21 @@
     "questions":[
       {
         "text":"How many Balon d'Or has Cristiano Ronaldo won?",
-        "answer":"0",
+        "answer":"1",
         "answers":[
             "5", "3", "2", "7"
         ]
       },
       {
         "text":"Who is currently the top lead scorer in the English Premiere League?",
-        "answer":"3",
+        "answer":"4",
         "answers":[
             "Harry Kane", "Sergio Aguero", "Andres Iniesta", "Mo Salah"
         ]
       },
       {
         "text": "Where is the 2018 World Cup taking place?",
-        "answer":"1",
+        "answer":"2",
         "answers":[
             "Russia", "Germany", "Argentina", "Paraguay"
         ]
@@ -133,21 +133,21 @@
     "questions":[
       {
         "text":"Which of these companies own ESPN?",
-        "answer":"1",
+        "answer":"2",
         "answers":[
             "Nike", "Walt Disney", "Time Warner", "Adidas"
         ]
       },
       {
         "text":"What is the most popular show on Netflix?",
-        "answer":"2",
+        "answer":"3",
         "answers":[
             "Stranger Things", "On My Block", "The Office", "Rick and Morty"
         ]
       },
       {
         "text": "Do you matter?",
-        "answer":"3",
+        "answer":"4",
         "answers":[
             "I Don't Know", "Nope", "Yes", "Who Cares"
         ]
