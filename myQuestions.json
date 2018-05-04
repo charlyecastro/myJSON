@@ -121,7 +121,7 @@
       },
       {
         "text": "Where is the 2018 World Cup taking place?",
-        "answer":"2",
+        "answer":"1",
         "answers":[
             "Russia", "Germany", "Argentina", "Paraguay"
         ]
@@ -147,7 +147,7 @@
       },
       {
         "text": "Do you matter?",
-        "answer":"4",
+        "answer":"3",
         "answers":[
             "I Don't Know", "Nope", "Yes", "Who Cares"
         ]
